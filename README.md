@@ -5,7 +5,9 @@ Uncover the cold, hard truth about who’s not following you back on Instagram. 
 🚀 Prerequisites
 
 Python 3.x (because who’s still on 2.x, honestly?).
-BeautifulSoup4:pip install beautifulsoup4
+BeautifulSoup4:
+
+pip install beautifulsoup4
 
 
 A dash of patience to deal with Instagram’s data export process.
